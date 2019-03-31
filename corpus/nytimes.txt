@@ -1,0 +1,3 @@
+This is a sample banana story about Apple Inc. We will be tokenizing each word to determine the term frequency of each word. Fingers crossed!
+
+banana banana banana

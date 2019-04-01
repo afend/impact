@@ -41,8 +41,8 @@ def main():
     {"to": 2, "be": 2, "or": 1, "not": 1, "that": 1, "is": 1, "the": 1, "question": 1}
     '''
 
-    parser = argparse.ArgumentParser(description='Retrieve the term frequency from a given story')
-    parser.add_argument('--story', dest='story', required=True,  help='sum the integers (default: find the max)')
+    parser = argparse.ArgumentParser(description="Retrieve the term frequency from a given story")
+    parser.add_argument("--story", dest="story", required=True,  help="File name of the news article in corpus")
 
     args = parser.parse_args()
 

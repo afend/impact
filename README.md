@@ -11,7 +11,7 @@ Step 3:
 See if they have impact based on some financial API I can see the time of the story and the corresponding shift (or lack thereof).
 
 Step 4:
-Revist developing a dictionary of impactful words. Repeat steps 3 and 4.
+Revist developing a dictionary of impactful words. Repeat steps 2 and 3.
 
 Step 5:
 Using Machine Learning, grab stories from a feed and offer the "client" a suggestion based on the impact of that story. Again, the intention is to see a rise in stock price or sell before drop. 
